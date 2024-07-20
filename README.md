@@ -1,3 +1,5 @@
+# S.I.R.I.U.S. - Smart Intelligent Responsive Interactive User System
+
 ## Features
 
 - **Voice Command Recognition:** Understand and process user commands through speech recognition.
@@ -15,7 +17,6 @@
 - **Interactive Hardware Control:** Allows camera operations including taking pictures and recording videos.
 - **Efficient Web Navigation:** Directly opens websites based on voice instructions.
 - **Dynamic Time Queries:** Provides real-time answers for time-related questions.
-# S.I.R.I.U.S. - Smart Intelligent Responsive Interactive User System
 
 ## Installation
 
